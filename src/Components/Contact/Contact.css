@@ -1,0 +1,11 @@
+#contact{
+	text-align: center;
+}
+
+#contact .container{
+	display: flex;
+	align-items: center;
+	gap: 40px;
+	flex-direction: column;
+	max-width: 600px;
+}
